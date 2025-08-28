@@ -1,0 +1,12 @@
+title: Коллекция вопросов ❓ на собеседовании в C# 🍧
+description: Обзор вопросов по языка програмиированию C# и технологии NET
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-sitemap
+  - jemoji
+  - jekyll-mentions
+paginate: 5
+collections:
+  categories:
+    output: true
